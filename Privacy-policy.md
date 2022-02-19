@@ -1,27 +1,11 @@
 # Zap Zoom Privacy Policy
 
 
+Zap Zoom does not collect any personal information whatsoever on users, nor does it have access to such information. 
+
+## Questions
+
+If you have any further questions about the privacy policy, feel free to email me at hello@aruns.net
 
 
-
-
-
-
-Note:
-- We don't have any servers.
-
-- No data leaves your computer.
-
-- We don't send or transmit any data to anywhere.
-
-- All your data belongs to you, we don't want it.
-
-
-So, in other words
-
-Complete Privacy
-No ads
-No analytics
-No data collection
-Therefore, we are HIPAA and GDPR Compliant.
 
